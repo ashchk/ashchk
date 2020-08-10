@@ -6,9 +6,6 @@
 <a href="https://github.com/ashchk/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/ashchk/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&repo=convoychat" />
-</a>
 
 <!--
 **ashchk/ashchk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
