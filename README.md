@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/ashchk/DesignPattern">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&repo=DesignPattern" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&show_icons=true&theme=highcontrast&repo=DesignPattern" />
 </a>
 
 <!--
