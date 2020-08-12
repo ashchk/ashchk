@@ -4,9 +4,7 @@
 ![Ashis's github stats](https://github-readme-stats.vercel.app/api?username=ashchk&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashchk&show_icons=true&theme=radical)](https://github.com/ashchk/github-readme-stats)
 
-<a href="https://github.com/ashchk/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&repo=github-readme-stats" />
-</a>
+
 <a href="https://github.com/ashchk/DesignPattern">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&show_icons=true&theme=highcontrast&repo=DesignPattern" />
 </a>
