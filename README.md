@@ -9,6 +9,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&show_icons=true&theme=highcontrast&repo=DesignPattern" />
 </a>
 
+<a href="https://github.com/ashchk/CodeForFun">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&show_icons=true&theme=highcontrast&repo=CodeForFun" />
+</a>
+
 <!--
 **ashchk/ashchk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 // theme can be dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
