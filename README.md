@@ -1,10 +1,11 @@
+
 ### Hi there. Welcome !! 👋
 
 
 ![Ashis's github stats](https://github-readme-stats.vercel.app/api?username=ashchk&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashchk&show_icons=true&theme=radical)](https://github.com/ashchk/github-readme-stats)
 
-
+<p>
 <a href="https://github.com/ashchk/DesignPattern">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&show_icons=true&theme=highcontrast&repo=DesignPattern" />
 </a>
@@ -13,14 +14,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ashchk&show_icons=true&theme=highcontrast&repo=CodeForFun" />
 </a>
 
-### Other social accounts
-
-<p align="center">
-  <a href="https://dev.to/ashchk" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashchk" height="30" width="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-   
 </p>
+
 
 <!--
 **ashchk/ashchk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
